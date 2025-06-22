@@ -29,6 +29,13 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+</p>
+
+---
+
+### 🧰 IDEs I Use
+
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
   <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse"/>
@@ -69,5 +76,5 @@ A powerful personal finance management web app built with React, Node.js & Mongo
   <a href="https://www.linkedin.com/in/dhinagar-s-68521b24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:dhinagarandhinagar70@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://github.com/dhina-007"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-  <a href="https://portfilo2.onrender.com"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-portfolio-user-interface-flat-flat-juicy-fish.png"/></a>
+  <a href="https://portfilo2.onrender.com"><img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio"/></a>
 </p>
