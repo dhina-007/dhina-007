@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m y worked on:
+- 🔭 I’m worked on:
   - 🛒 **MERN E-commerce Website** with real-time product management and admin dashboard
   - 💰 **Smart Wealth Tracker** – A Financial Management System to track expenses, savings, and net worth
 - 🌱 I’m learning Some New
