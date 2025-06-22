@@ -3,11 +3,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working on:
+- 🔭 I’m y worked on:
   - 🛒 **MERN E-commerce Website** with real-time product management and admin dashboard
   - 💰 **Smart Wealth Tracker** – A Financial Management System to track expenses, savings, and net worth
-- 🌱 I’m learning **Blockchain (Hyperledger Fabric)** and **AI Blueprint Analysis Systems**
-- 👯 I’m collaborating on **Migrant Labor Support System** for Tamil Nadu
+- 🌱 I’m learning Some New
 - 💬 Ask me about **MERN, React, Node.js, MongoDB, Java, Python, Game Dev**
 - 📫 Reach me at **dhinagarandhinagar70@gmail.com**
 - 🌐 Visit my portfolio: [https://portfilo2.onrender.com](https://portfilo2.onrender.com)
@@ -30,6 +29,9 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
+  <img src="https://img.icons8.com/color/48/000000/eclipse.png" alt="Eclipse"/>
 </p>
 
 ---
@@ -67,5 +69,5 @@ A powerful personal finance management web app built with React, Node.js & Mongo
   <a href="https://www.linkedin.com/in/dhinagar-s-68521b24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:dhinagarandhinagar70@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://github.com/dhina-007"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-  <a href="https://portfilo2.onrender.com"><img src="https://img.icons8.com/external-flat-icons-inmotus-design/64/external-Portfolio-user-interface-flat-icons-inmotus-design.png"/></a>
+  <a href="https://portfilo2.onrender.com"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-portfolio-user-interface-flat-flat-juicy-fish.png"/></a>
 </p>
