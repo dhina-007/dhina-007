@@ -64,7 +64,6 @@ A powerful personal finance management web app built with React, Node.js & Mongo
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhina-007&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhina-007&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
